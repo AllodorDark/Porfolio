@@ -20,7 +20,7 @@
 Изучена спецификация эндпоинтов и спроектировано **13 тест-кейсов** с применением техник тест-дизайна (эквивалентное разделение, граничные значения, негативное тестирование, базовые проверки безопасности):
 * **`Auth - CreateToken` (`POST /auth`):** 5 тест-кейсов (валидная авторизация, неверный логин, неверный пароль, пустые значения полей, пустой JSON-объект `{}`).
 * **`Booking - GetBookingIds` (`GET /booking`):** 8 тест-кейсов (получение списка всех ID, фильтрация по имени и фамилии, поиск по несуществующим данным, пустые Query-параметры, спецсимволы и SQL-инъекция).
-> 📂 **[Ссылка на Tesit (`https://team-pp9r.testit.software/projects/1/tests?isolatedSection=047b38f6-c7d7-4504-8592-0edc3c7c0378`)**
+> 📂 [Ссылка на Test IT](https://team-pp9r.testit.software/projects/1/tests?isolatedSection=047b38f6-c7d7-4504-8592-0edc3c7c0378)
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/166b35c5-928f-4784-b315-4b214b7376fc" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/5ffb8f73-2547-41b5-bf94-86f11168fc1c" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/507a0756-24ec-40d5-b762-7d207c5d9ebe" />
