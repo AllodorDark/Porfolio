@@ -30,7 +30,7 @@
 * Настроены HTTP-методы, заголовки (`Content-Type: application/json`, `Accept: application/json`), Query-параметры и JSON-тела запросов.
 * Проверены статус-коды ответов, структура и типы данных возвращаемого JSON.
 
-> 📂 **[Скачать Postman-коллекцию (`Restful-Booker_API.postman_collection.json`)](./Restful-Booker_API.postman_collection.json)** *(прикрепи сюда экспортированный из Postman JSON-файл)*  
+> 📂 **[Скачать Postman-коллекцию (`collection.json`)](./collection.json))**
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/c1f04ca7-c96d-4b96-a4bd-558f4d2b26ea" />
 ---
 
