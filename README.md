@@ -41,10 +41,10 @@
 В ходе тестирования эндпоинта авторизации выявлены несоответствия стандартам REST API (сервер возвращает статус `200 OK` вместо `400 Bad Request` / `401 Unauthorized` при передаче невалидных или пустых учетных данных).
 
 По результатам проверок заведено **3 подробных баг-репорта** в Kaiten с указанием предусловий, шагов воспроизведения, ожидаемого и фактического результатов, а также приложенными скриншотами ответов сервера.
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5a6ff87c-8ce9-4104-93de-7bbcd9bff6fa" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/2286242d-93c1-44eb-8be8-60aa0cf0a302" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/c8ec2b30-147d-4a39-b050-a92ecb6f9561" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/a5cdbda9-1412-4d8d-848e-e854066c4495" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/5a6ff87c-8ce9-4104-93de-7bbcd9bff6fa" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/2286242d-93c1-44eb-8be8-60aa0cf0a302" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/c8ec2b30-147d-4a39-b050-a92ecb6f9561" />
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/a5cdbda9-1412-4d8d-848e-e854066c4495" />
 ---
 
 ## 👤 Контакты
