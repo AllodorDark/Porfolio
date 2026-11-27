@@ -34,6 +34,7 @@
 
 > 📂 **[Скачать Postman-коллекцию (`collection.json`)](./collection.json))**
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/c1f04ca7-c96d-4b96-a4bd-558f4d2b26ea" />
+
 ---
 
 ### 3. Баг-репортинг (Kaiten)
